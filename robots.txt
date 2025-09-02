@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nexorifttech.com/sitemap.xml
